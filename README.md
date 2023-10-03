@@ -1,5 +1,7 @@
 # Yesdi-Aulia-A2
 
+Dividing the assignment
+
 Crime and Loans
 
 Problem 1
